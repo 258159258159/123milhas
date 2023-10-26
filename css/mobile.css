@@ -1,0 +1,272 @@
+/*CODER PHP - ELITE CODERS*/
+
+/*TODA PARTE VISUAL RESPONSIVA FICA NESSE ARQUIVO CSS*/
+
+@media screen and (max-width:700px){
+
+	.asjkdsakjdcoderphp{
+		width:100%;
+		height:auto;
+		padding:5px !important;
+
+		background-color: rgb(255, 255, 255);
+		box-shadow: rgba(37, 37, 39, 0.25) 0.5rem 0.5rem 2rem 0px;
+	}
+
+
+	.ksjadkjsdasdkjsadjiui2323coderphp{
+		width:100%;
+		height:auto;
+		padding:1px !important;
+		background-image:url('https://123milhas.com/_next/image?url=%2Fbanners%2Fbanner-voos.jpg&w=1920&q=50');
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+
+	.idaevoltacoderphp{
+
+		width:100%;
+		border-radius:20px !important;
+		border:solid 1px rgb(234, 61, 53);
+		color:rgb(234, 61, 53);
+		text-align: center;
+		padding:6px;
+
+		background:rgb(253, 238, 233);
+		cursor:pointer;
+	}
+	.idacoderphp{
+		cursor:pointer;
+
+		width:100%;
+		border-radius:20px !important;
+		border:solid 1px rgb(234, 61, 53);
+		color:rgb(234, 61, 53);
+		text-align: center;
+		padding:6px;
+
+		background:rgb(253, 238, 233);
+	}
+
+	.asdasdsaddcoderphp0001{
+		margin-left:-5px !important;
+	}
+	.sdsadasdsd0090009009090909{
+		width:100% !important;margin-left:1px !important;
+	}
+	.aviaovos23{
+
+		width:100% !important;
+		border:solid 2px rgb(234, 61, 53) !important;
+		text-indent: 30px;
+		border-radius:8px;
+		padding:10px;
+		outline:none;
+	}
+	.buttonoaooaosoasoaos{
+		display:none;
+	}
+
+
+
+	.asdasdsadasdsadkjsdkjsa{
+
+
+		display:block;
+		margin-top:80px;
+		width:280px;padding:16px;color:white;    border-radius: 1rem;
+		color: rgb(255, 255, 255);
+		background: linear-gradient(308.6deg, rgb(240, 101, 49) -7.94%, rgb(234, 61, 53) 79.38%);
+
+		cursor: pointer;
+		text-align: center;
+		box-shadow: rgba(37, 37, 39, 0.25) 0.5rem 0.5rem 2rem 0px;border:none;
+	}
+
+
+.aviaovos{
+	float:left;
+	width:100%;
+	border:solid 2px rgb(234, 61, 53) !important;
+	text-indent: 30px;
+	border-radius:8px;
+	padding:10px;
+	outline:none;
+}
+.askdlskdlslksdlsdklsadlksaklsdaldlklasdl{
+	width:100% !important;
+}
+
+.bsucar0001{
+	width:100%;
+	height:auto;
+	padding:5px;
+	background:rgb(248, 246, 247);
+}
+.precosaeresscoderphp{
+	width:100%;
+	height:auto;
+	padding:10px;
+	margin:0 auto;
+}
+.passsaeigroscoderphp{
+	width:100%;
+	height:auto;
+	padding:2px;
+}
+.dsdadsdboc{
+	display:none !important;
+}
+.slexlslsllsls{
+	maring-bottom:5px;border-radius:6px;width:100%!important;height:auto;padding:14px;
+}
+.okokoookokokokookcoderphp{
+	width:100%;
+	height:auto;
+	padding:12px;
+	border-radius:6px;
+	outline:none;
+	border:solid 2px rgb(200,200,200);
+	margin-bottom:10px;
+}
+.asdasdsadsdsadform{
+	
+	width:100%;
+	height:auto;
+	padding:5px;
+}
+
+
+.nascimento{
+	
+	width:100%;
+	height:auto;
+	padding:5px;
+	margin-top:10px;
+}.telefonefixo{
+	
+	width:110%;
+	height:auto;
+	padding:5px;
+	margin-top:10px;
+}
+.cpfinput{
+	
+	width:100%;
+	height:auto;
+	padding:5px;
+	margin-top:20px;
+}
+.sexoinput{
+	
+	width:100%;
+	height:auto;
+	padding:5px;
+	margin-top:20px;
+}
+
+.cep{
+	
+	width:100%;
+	height:auto;
+	padding:5px;
+	margin-top:20px;
+}
+.klkllkllksdsadsd{
+	font-size:12px !important;
+}
+
+
+.telefonefixo{
+	
+	width:110%;
+	height:auto;
+	padding:5px;
+	margin-top:20px;
+}
+.telefonemovel{
+	
+	width:110%;
+	height:auto;
+	padding:5px;
+	margin-top:20px;
+}
+
+.asdasdsadsdsadform1{
+	
+	width:100%;
+	height:auto;
+	padding:5px;
+	margin-left:1px;
+}
+.sdasdsadsadcoderphp02020202{
+	margin-top:30px;
+	width:100%;
+	height:auto;
+	padding:15px;
+	border-radius:10px;
+	border:solid 2px rgb(235, 144, 43);
+	border-left: solid 75px rgb(235, 144, 43);
+
+}
+.ksadkjsadkasjdjksdkjsd{
+	background: linear-gradient(308.6deg,#F06531 -7.94%,#EA3D35 79.38%);
+			border-radius: 1.5rem;
+			margin: 0 0 4rem;
+			color: #fff;
+			border: none;
+			padding: 1rem 2rem;
+			font-weight:bold;
+			width: 100% !important;
+}
+.lskdlsakdsladlsdklsd{
+	background:white;margin:5% auto;width:100% !important;height:auto;padding:30px;border-radius:12px;
+}
+.akjsdkjadkjaskdjsdaskjdcoderphp{
+	width:100%;
+	height:auto;
+	padding:2px;
+}
+.conteudosite0000000000coderphp{
+	width:100%;
+	height:auto;
+	border-radius:10px;
+	background:white;
+	box-shadow: 10px 10px 20px rgba(166,171,189,.53), -10px -10px 20px #fafbff;
+	margin:0 auto;
+	padding:5px;
+}
+.sdasdsd900999090000090090909coderphppix{
+	width:90%;
+	height:auto;
+	padding:20px;
+	margin:0 auto;
+	border:solid 1px black;
+	border-radius:8px;
+	margin-bottom:20px;
+
+}
+.sdasdalkdsldk9999{
+	margin-left:1px !important;
+}
+.sdklksadlkasdkklklklkl{
+	margin-left:50px !important;
+	width:100% !important;
+}
+.aslkdlaskdlkasdasdsalkdlkasdlksdklasd{
+	width:100%;
+	height: auto;
+	padding:5px !important;
+	margin-top:20px;
+}
+.sdadsadsdsadsadsdsd222{
+	margin-top:30px;
+}
+.desktop{
+	display:none;
+}
+.mobile{
+	display:block;
+}
+}
